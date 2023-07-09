@@ -94,11 +94,6 @@ html {
     transition: fill 0.3s;
 }
 
-.bpw-header-icon svg,
-.bpw-header-icon svg path {
-    fill: #000000 !important;
-}
-
 .bpw-header-container {
     color: #F7F0E2;
 }
