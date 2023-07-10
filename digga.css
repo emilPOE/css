@@ -134,9 +134,7 @@ a {
 
 .bpw-bot-avatar img,
 .bpw-bot-avatar svg {
-    background: #212529;
     background-size: cover;
-    border: 3px solid #000000;
 }
 
  ::-webkit-scrollbar {
